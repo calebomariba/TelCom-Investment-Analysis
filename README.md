@@ -1,4 +1,4 @@
-# Telecomunication Investment Analysis Project
+# Telecommunication Investment Analysis Project.
 
 ### General Instruction 
  - Your datasets should be stored in the data folder
